@@ -6,7 +6,7 @@
 영상 순서는 아래와 같습니다.
 
 1. CRA로 앱 만들기
-2. .env로 경로 설정하기
+2. .jsconfig.json으로 경로설정
 3. router 설치하기
 4. router 세부 설명
 5. styles 폴더 세팅하기
